@@ -176,21 +176,9 @@ SECTION WRAPS
 
 @media only screen and (max-width: 500px) {
   #headerwrap {
-    background: url(../img/header-bg4.jpg) no-repeat center top;
-    margin-top: 60px;
-    padding-top: 140px;
-    text-align: center;
-    background-attachment: relative;
-    background-position: center center;
+   
     min-height: 500px;
-    width: 90%;
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    width: 90%;    
     background-size: cover;
   }
 }
