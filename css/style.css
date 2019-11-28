@@ -156,7 +156,11 @@ SECTION WRAPS
 /* Header Wrap */
 
 #headerwrap {
+<<<<<<< HEAD
   background: url(../img/header-bg4.jpg) no-repeat center top;
+=======
+  background: url(../img/header-bg3.JPG) no-repeat center top;
+>>>>>>> d7836660710c6f0bd5f5d9e06b57295976c95a70
   margin-top: 60px;
   padding-top: 140px;
   text-align: center;
